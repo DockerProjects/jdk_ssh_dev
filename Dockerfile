@@ -7,5 +7,6 @@ RUN apt update && apt install -y \
     git \
     wget \
     curl \
-    zip
+    zip \
+    maven
 
